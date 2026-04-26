@@ -57,9 +57,9 @@ class Student:
 
 
 # Create students
-s1 = Student(101, "John Doe", "CSE")
-s2 = Student(102, "Jane Smith", "EEE")
-s3 = Student(103, "Alice Brown", "BBA")
+s1 = Student(101, "Jaber", "CSE")
+s2 = Student(102, "Jamal", "EEE")
+s3 = Student(103, "Jayed", "BBA")
 
 
 # Menu1
